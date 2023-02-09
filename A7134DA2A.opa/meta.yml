@@ -1,0 +1,22 @@
+id: A7134DA2A
+title: 'MSV 1,04: Varṣāvastu'
+type: translation
+pechas:
+- I29EE945A
+- I2CA444B3
+- I1AC04F0F
+- IE80440E8
+source_metadata:
+  languages:
+  - sa
+  - bo
+  - zh
+  - en
+  datatype: PlainText
+  created_at: 2023-02-09 15:04:40.553448
+  last_modified_at: 2023-02-09 15:04:40.553461
+alignment_to_base:
+  I29EE945A/E5A2: C2AC
+  I2CA444B3/C018: C2AC
+  I1AC04F0F/BAF4: C2AC
+  IE80440E8/815F: C2AC
